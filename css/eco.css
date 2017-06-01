@@ -9,6 +9,9 @@ body {
     margin-bottom: 50px;
 }
 .modal-dialog {
-    width: 700px;
+    max-width: 700px;
     text-align: center;
+}
+.modal-body img {
+    width: 100%;
 }
